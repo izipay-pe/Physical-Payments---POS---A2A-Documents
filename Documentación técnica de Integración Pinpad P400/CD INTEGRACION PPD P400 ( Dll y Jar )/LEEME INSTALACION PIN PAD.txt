@@ -1,0 +1,13 @@
+
+
+Ejecutar el archivo instalador CajaPinPad_6.0.jar
+
+
+Seleccionar una opcion, por el tipo de instalacion Pin Pad a utilizar:
+--------------------------------------------------------------------------
+
+° Caja Linux 32 bits            -- Caja Gateway Linux a  32 bits
+° Caja Linux 64 bits            -- Caja Gateway Linux a  64 bits
+° Caja Windows JAR 32bits       -- Caja Gateway Windows JAR 32 bits (JAVA)
+° Caja Windows DLL 32bits       -- Caja Gateway Windows DLL 32 bits (NUEVAS INTEGRACIONES WINDOWS)
+° Caja Windows DLL 32bits 4.1_1 -- Caja Gateway Windows DLL 32 bits 4.1_1 (Solo para Soporte de Gateway Anterior)
